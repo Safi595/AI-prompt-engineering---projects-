@@ -1,0 +1,25 @@
+
+===================================
+       MY AI STUDY PLAN
+===================================
+Student Name: safiullah
+AI Learning Goal: learn AI and chatgpt tools
+Study Days Per Week: 3
+Daily Study Hours: 2
+Total Weekly Study Hours: 6
+
+PERSONALIZED WEEKLY PLAN
+------------------------
+Your goal: learn AI and chatgpt tools
+
+Study for 2 hour(s) on each of your 3 study day(s).
+
+Suggested routine for each study day:
+1. Spend the first 10 minutes reviewing what you learned previously.
+2. Use the main part of your session to learn and practise your AI topic.
+3. Spend the final 10 minutes writing notes or summarizing what you learned.
+4. At the end of each week, review your progress and adjust your plan if needed.
+
+Remember: Practise regularly, take breaks, and learn at a pace that works for you.
+Good luck, safiullah!
+===================================
